@@ -1,0 +1,103 @@
+body
+{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    background-color: rgba(194,63,176,0.99);
+}
+h1
+{
+    text-align: center;
+}
+
+.navbar
+{
+    width: 100%;
+}
+.navbar a
+{
+    width:16%;
+    margin: 2%;
+}
+.col-md-2
+{
+    WIDTH:20%;
+}
+.col-8
+{
+    width: 60%;
+}
+.icons.col-8 img
+{
+    width: 45%;
+    height: 300px;
+    margin: 10px;
+    float: left;
+}
+{
+    width: 50%;
+    height: 15%;
+    margin-right: 24%;
+    margin-left: 24%;
+    padding-left: 1.5%;
+    margin-bottom: 20px;
+}
+.icons img
+{
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+}
+.col-8 img
+{
+    width: 45%;
+    height: 300px;
+    margin: 10px;
+    float: left;
+}
+.main
+{
+    background-color: rgba(51,89,5,0.99);
+}
+.heading1
+{
+    color: rgba(16,44,89,0.99);
+    text-decoration: underline;
+    text-align: center;
+}
+
+hr
+{
+    height: 10px;
+    background-color: rgba(255,190,26,0.99);
+}
+form
+{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgba(180,180,194,0.99);
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.x
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.z,.x
+{
+    border: 2px outset chartreuse;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.z
+{
+    width:35%;
+    margin: 20px;
+}
+.x
+{
+    background-color: orange;
+}

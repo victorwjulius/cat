@@ -1,0 +1,202 @@
+html,body
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+/*about page*/
+
+/*the first row of the about page*/
+.main-row
+{
+    margin-right: 0;
+    width: 100%;
+    height: 593px;
+}
+
+/*the left section in the first row*/
+.my-section
+{
+    background-color: #800000;
+    text-align: center;
+    /*width: 20%;*/
+    height: 100%;
+}
+.my-section img
+{
+    width: 12vw;
+    height:12vw;
+    margin-top: 70px;
+}
+ul
+{
+    margin-left: -10%;
+    /*margin-top: 10px;*/
+}
+li
+{
+    color: #ccc;
+    padding: 6px;
+    list-style: none;
+    text-align: center;
+}
+.li-a
+{
+    font-size: 19px;
+}
+.li-a
+{
+    color: #777;
+}
+.li-a:hover
+{
+  text-decoration: none;
+}
+
+.active
+{
+    color: white;
+}
+
+
+
+/*the right field in the first row
+with the social media icons*/
+.my-name-div
+{
+    margin-right: 0;
+    background-color: #008080;
+    height: 100%;
+}
+
+.my-blockquote
+{
+    margin: 20px;
+}
+strong
+{
+    color: #800000;
+}
+.experience-p
+{
+    margin-left: 20px;
+}
+table
+{
+    margin-left: 10px;
+    border-spacing: 9px;
+}
+td img
+{
+    width: 60px;
+    height:60px;
+}
+.footer-about
+{
+   /* position: absolute;
+    bottom: 0;
+    margin: 0;*/
+    background-color: #141414;
+    width:100%;
+    height:97px;
+    max-width: 100%;
+    min-width: 100%;
+}
+.efooter-buttons
+{
+    height: 59px;
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+
+
+
+/*experience page*/
+.my-jumbo/*first row with image background*/
+{
+    background: url("images/clock.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 280px;
+    min-height: 280px;
+}
+.navigation/*buttons on the top-right of the first row*/
+{
+    float: right;
+    margin-right: 10px;
+    margin-top:-45px;
+}
+.my-lt/*my landing text*/
+{
+    font-size: 28px;
+    color: yellow;
+}
+form
+{
+    width:60%;
+    margin-left: 38%;
+}
+.inp/*form input*/
+{
+    height: 36px;
+    color: whitesmoke;
+    border: 2px solid #008080;
+    border-radius: 0 10px 0 10px;
+
+}
+.my-logos/*middle row with programming logos*/
+{
+    height: 300px;
+}
+.my-logos img
+{
+    width: 150px;
+    height: 150px;
+    margin: 100px;
+    margin-bottom: 0;
+}
+
+/*paragraphs for the icons*/
+.pi1
+{
+    margin-left: 90px;
+}
+.pi2
+{
+    margin-left: 40px;
+}
+.pi3
+{
+    margin-left: 130px;
+}
+.my-footer
+{
+    background-color: #141414;
+    width: 100%;
+    position:absolute;
+    bottom: 0;
+    height:90px;
+}
+
+.footer-buttons
+{
+    height: 60px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+img[src="icons/eye.png"]
+{
+    width: 19px;
+    height: 19px;
+}
+.my-button/*individual buttons in the footer*/
+{
+    margin: 7px;
+    height: 45px;
+}
+
